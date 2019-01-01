@@ -42,6 +42,9 @@ public class HomeController {
         if(code==null){
             return "hello getList";
         }
+
+        //将lab02的callback操作复制到这儿就可以了 转发的一个请求啊
+
         return "hello getList"+code;
     }
 
