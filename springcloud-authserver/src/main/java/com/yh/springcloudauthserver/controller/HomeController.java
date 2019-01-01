@@ -2,8 +2,6 @@ package com.yh.springcloudauthserver.controller;
 
 
 import com.yh.springcloudauthserver.domain.Msg;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
-import org.springframework.http.HttpRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
